@@ -28,6 +28,8 @@ items.each do |items|
       kinds += 1
     end
 end
+puts"----- Number of shopping products:"
+puts kinds
 
 puts "------ Question 2"
 
